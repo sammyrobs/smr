@@ -10,7 +10,7 @@ description: A blog about technology and stuff related
 external-image: false
 picture: assets/images/main.jpg
 
-baseurl: '/smr'
+baseurl: '/smr/'
 url: https://sammyrobs.github.io
 # your url: https://USERNAME.github.io
 
