@@ -1,7 +1,7 @@
 ---
-title: Death of Democracy in HK? Blockchain Provides Hope. 
+title: "Death of Democracy in HK? Blockchain Provides Hope." 
 layout: post
-date: 2020-07-07
+date: 2020-07-07 12:33
 image: /assets/images/markdown.jpg
 headerImage: false
 tag:
