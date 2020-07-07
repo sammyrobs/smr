@@ -35,7 +35,7 @@ Moreover, finding ways to usurp censorship is more critical than ever, as Wester
     </div>
 
     <div class="toright">
-        <img class="image" src="https://sammyrobs.github.io/smr/assets/images/Mosque1.png" width="100" height="200" alt="Alt Text">
+        <img class="image" src="https://sammyrobs.github.io/smr/assets/images/Mosque1.png" alt="Alt Text">
         <figcaption class="caption">Photo by smr</figcaption>
     </div>
 </div> 
