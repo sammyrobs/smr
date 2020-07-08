@@ -3,7 +3,7 @@ title: About
 layout: page
 ---
 
-
+![alt text](https://sammyrobs.github.io/assets/images/about.png "Yading Kora Trek")
 
 <p>Ex-China; Feeling strange in America. Inimiatble worldview. 
 
