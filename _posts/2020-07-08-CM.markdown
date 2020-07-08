@@ -1,4 +1,4 @@
-title: Coming Soon: Commi Mami 
+title: Introducing Commi Mami 
 layout: post
 date: 2020-07-08 13:46
 tag: jekyll
