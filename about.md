@@ -2,45 +2,28 @@
 title: About
 layout: page
 ---
-![Profile Image]({{ site.picture | relative_url }})
 
-<p>Lorem Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
 
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
 
-<h2>Skills</h2>
+<p>Ex-China; Feeling strange in America. Inimiatble worldview. 
 
-<ul class="skill-list">
-	<li>HTML - Jade - Haml - Erb</li>
-	<li>Responsive (Mobile First)</li>
-	<li>CSS (Stylus, Sass, Less)</li>
-	<li>Css Frameworks (Bootstrap, Foundation)</li>
-	<li>Javascript (Design Patterns, Testes)</li>
-	<li>NodeJS</li>
-	<li>AngularJS - ReactJS</li>
-	<li>Grunt - Gulp - Yeoman</li>
-	<li>Git</li>
-	<li>PHP</li>
-	<li>Python</li>
-	<li>MySQL - MongoDB</li>
-	<li>Scrum and Kanban</li>
-	<li>TDD e Continuous Integration</li>
+Exploring ways to apply blockchain to government/civic use cases so as 
+public sector service delivery and organizational efficiency. 
+
+Unemployed but not looking for a "job." I'm looking to rewriting the social contract. 
+This time, we have all the tools to make it work for all of us, even the people who left us out the first time around.</p> 
+
+<h2>Interests</h2>
+
+<ul class="interests-list">
+	<li>COVID-19 Response</li>
+	<li>Housing Crisis</li>
+	<li>Blockchain-enabled IP databases</li>
+	<li>Self-Soverign Identity</li>
+	
 </ul>
 
-<h2>Projects</h2>
+<p> In a post-COVID world, I'm writing on the remnants of the Cold War + China's New Silk Road expansion, alongside the cultural evolution of dumplings from East to West. If, of course, my U.S. passport is still valid.</p> 
 
-<ul>
-	<li><a href="https://github.com/">Lorem Lorem</a></li>
-	<li><a href="https://github.com/">Ipsum Dolor</a></li>
-	<li><a href="https://github.com/">Dolor Lorem</a></li>
-</ul>
+
+
