@@ -1,3 +1,4 @@
+---
 title: "Coming Soon: Commi Mami" 
 layout: post
 date: 2020-07-08 13:46
@@ -10,7 +11,7 @@ description: Podcast on Emerging Technology and a New Axis: the U.S., Russia, an
 category: project
 author: smr 
 externalLink: false
-
+---
 
 
 In returning to the U.S. after 5 years in China, I’ve realized that so many people in the U.S. are largely confused about what China's rise means for the rest of the world beyond reductive "democracy good, China bad" rhetoric. Enter Commi Mami: a podcastto curate and elevate more diverse voices at the most critical juncture of geopolitics and technology in the next decade: the axis of global power alongside interactions between the U.S., China, and Russia. 
