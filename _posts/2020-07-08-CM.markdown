@@ -2,12 +2,21 @@ title: Coming Soon: Commi Mami
 layout: post
 date: 2020-07-08 13:46
 tag: jekyll
-image: 
+image: https://sammyrobs.io/smr/assets/images/CM.png
 headerImage: true
 projects: true
 hidden: true # don't count this post in blog pagination
 description: Podcast on 
 category: project
-author: johndoe
+author: smr 
 externalLink: false
 
+
+
+In returning to the U.S. after 5 years in China, I’ve realized that so many people in the U.S. are largely confused about what China's rise means for the rest of the world beyond reductive "democracy good, China bad" rhetoric. Enter Commi Mami: a podcastto curate and elevate more diverse voices at the most critical juncture of geopolitics and technology in the next decade: the axis of global power alongside interactions between the U.S., China, and Russia. 
+
+The last one might surprise you—which is exactly why I am compelled to make these connections for a broad audience, from policy wonks to entrepreneurs. 
+ 
+With the coronavirus pandemic, the global implications of the Chinese superpower have catapulted into our consciousness. Our collective culture is now confronted with broad questions about Chinese culture and how to understand China in a world mid- and post-COVID-19. This is to be expected, as China has existed throughout history as a culture that is inherently wary to outsiders, but we’ve seen the unfortunate consequences of our cultural ignorance reflected in acts of bigotry against diaspora communities. The same ignorance is true for Russia. After 1990, many felt that this struggling country was rebuilding itself in the name of democracy, and that this Cold War rivalry had finally vanquished. This is not the case—as the Kremlin is decidedly on the offensive to sow chaos in Western nations and has recruited some of the world’s most savvy, innovative developers and technologists concentrated inside of Russia. As such, China and Russia have engaged in extensive efforts to undermine Western powers and democracy through technology, making cyber security the premier battlefield of the 21st century. China has also implemented tech-focused soft power initiatives (and also created dubious flows of transnational data) with the global expansion of Mainland-based mobile apps, price competitive smart devices (Huawei + Xiaomi,) and 5G infrastructure. This highlights the urgency to broadcast these seemingly disparate connections to readers across policy and tech disciplines, inviting the critical need to uphold free market values and competitiveness in emerging market landscapes. 
+ 
+I feel inspired to answer this urgent call because, while in China, I had very poignant experiences relating to explicit contrasts in our countries’ two distinct value systems. This is further complicated as the past for years have seen an erosion of moral leadership in the world, with direct implications on our broader interactions with China and Russia. Historically, the Soviet strategy would highlight the ideological disconnect between how the US touts democratic values versus the stark inequities exposed across various fault lines in U.S. society. Now, the U.S. is becoming a Russian-style kleptocratic oligarchy and this ideological divide, even if it only truly existed in a competitive imaginary, is too hypocritical to feign. Coordinated action is required to redefine our relationship with China and Russa, but we can't rely on relationship on tactics of 20th century military engagement or racism combined with Cold War era fear mongering. These are too antiquated in outplaying this strategic rivalry. That is why we are drawing connections between cybersecurity and emerging geopolitical frontiers, as an effort to ignite within others a fire to combat shifting global tensions with technological innovation and exchange. 
