@@ -8,7 +8,7 @@ headerImage: false
 star: true
 category: projects
 author: Samantha Robertson 
-description: Test 
+description: new podcast 
 ---
 
 <center>![alt text](http://sammyrobs.github.io/smr/assets/images/CM.PNG "CM logo)</center>
