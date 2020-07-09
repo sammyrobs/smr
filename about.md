@@ -5,9 +5,9 @@ layout: page
 
 ![alt text](https://sammyrobs.github.io/smr/assets/images/about.png "Yading Kora Trek")
 
-<p>Ex-China; Feeling strange in America. Inimiatble worldview. 
+<p>Ex-China; Feeling strange in America. Inimiatble worldview.</p>
 
-Exploring ways to apply blockchain to government/civic use cases so as 
+<p>Exploring ways to apply blockchain to government/civic use cases so as 
 public sector service delivery and organizational efficiency. 
 
 Unemployed but not looking for a "job." I'm looking to rewriting the social contract. 
