@@ -1,15 +1,14 @@
 ---
 title: "Coming Soon: Commi Mami" 
 layout: post
-date: 2020-07-08 13:46
-tag: CM
+date: 2020-07-09 15:53
+published: true
 image: false
-headerImage: true
-projects: true
-hidden: true # don't count this post in blog pagination
-description: Podcast on Emerging Technology and a New Axis: the U.S., Russia, and China 
-category: project
-author: smr 
+headerImage: false
+star: true
+category: projects
+author: Samantha Robertson 
+description: Test 
 ---
 
 <center>![alt text](http://sammyrobs.github.io/smr/assets/images/CM.PNG "CM logo)</center>
