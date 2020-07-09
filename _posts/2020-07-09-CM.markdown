@@ -3,13 +3,17 @@ title: "Coming Soon: Commi Mami"
 layout: post
 date: 2020-07-09 15:53
 published: true
-image: false
+tag: 
+image: 
 headerImage: false
-star: true
-category: projects
+projects: true
+hidden: true # don't count this post in blog pagination
+description: The U.S., China, and Russia and the new cyber Cold War Axis
+category: project
 author: Samantha Robertson 
-description: new podcast 
+externalLink: false
 ---
+
 
 <center>![alt text](http://sammyrobs.github.io/smr/assets/images/CM.PNG "CM logo)</center>
 
